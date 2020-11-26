@@ -1,4 +1,5 @@
 Test 0
 I vuvooo
 doggies
+let's introduce a conflict
 let's introduce many many conflicts!
